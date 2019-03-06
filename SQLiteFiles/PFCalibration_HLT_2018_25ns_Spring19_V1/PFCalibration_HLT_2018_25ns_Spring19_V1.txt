@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_HLT_2018_25ns_Spring19_V1": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_HLT_2018_25ns_Spring19_V1", 
+    "since": null, 
+    "userText": "HLT PFCalibration"
+}
