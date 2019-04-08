@@ -1,11 +1,11 @@
 # PFHCDataBase
-This repository contains all the records of files related to updates in PF Hadron Calibration. The details of each folder is as follows:
+This repository contains all the records of files related to updates in PF Hadron Calibration. TWiki: https://twiki.cern.ch/twiki/bin/view/CMS/PFCalibrationDBConditions The details of each folder is as follows:
 
 # PDF: 
-Slides/Results containing the effect of changes in PF Hadron Calibration
+Slides/Results or related documentation with updates in PF Hadron Calibration
 
 # textfiles: 
-To store all the text files provided by analyzers
+To store all the metadata text files
 
 # SQLiteFiles: 
-To store .db file correcspinding to the provided text files. It can be created from instructions provided in ReadMe file of DBUploadTools/PFHC repositary 
+To store .db file correcspinding to the metadata text files. 
