@@ -1,0 +1,146 @@
+<boost_serialization signature="serialization::archive" version="16">
+<cmsCondPayload class_id="0" tracking_level="1" version="0" object_id="_0">
+	<PerformancePayload class_id="1" tracking_level="0" version="0"></PerformancePayload>
+	<pl class_id="2" tracking_level="0" version="0">
+		<limits- class_id="3" tracking_level="0" version="0">
+			<count>20</count>
+			<item_version>0</item_version>
+			<item class_id="4" tracking_level="0" version="0">
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+			<item>
+				<first>0.000000000e+00</first>
+				<second>1.000000000e+03</second>
+			</item>
+		</limits->
+		<formulas- class_id="5" tracking_level="0" version="0">
+			<count>20</count>
+			<item_version>0</item_version>
+			<item>-30.7141+(((31.7583+(4.40594/sqrt(x)))*exp(-(pow(x,-1.38927)/1.70914)))-(0.0613696*exp(-(pow(x,-0.743082)/0.000104857))))</item>
+			<item>2.25366+(((0.537715+(-4.81375/sqrt(x)))*exp(-(pow(x,-6.26234)/12.109)))-(1.80577*exp(-(pow(x,-0.607392)/0.187919))))</item>
+			<item>1.5126+(((0.855057+(-6.04199/sqrt(x)))*exp(-(pow(x,0.364802)/2.08229)))-(0.592266*exp(-(pow(x,-1.50142)/0.0291232))))</item>
+			<item>0.0185555+-0.0470674*exp(-x/396.959)</item>
+			<item>0.0396458+0.114128*exp(-x/251.405)</item>
+			<item>0.00434994+-5.16564e-06*x</item>
+			<item>-0.0232604+0.0937525*exp(-x/34.9935)</item>
+			<item>1.17227+(((13.1489+(-29.1672/sqrt(x)))*exp(-(pow(x,0.165293)/0.604223)))-(0.0426363*exp(-(pow(x,-7.56786)/3.30898e-15))))</item>
+			<item>-0.974251+(((1.61733+(0.0629183/sqrt(x)))*exp(-(pow(x,0.139116)/7.78495)))-(-0.774289*exp(-(pow(x,-4.25551)/7.81399e-05))))</item>
+			<item>1.01863+(((1.29787+(-3.97293/sqrt(x)))*exp(-(pow(x,1.42226)/21.7805)))-(0.810195*exp(-(pow(x,-0.0997326)/0.234134))))</item>
+			<item>0.0112692+-2.68063*exp(-x/2.90973)</item>
+			<item>-0.0192991+-0.265*exp(-x/80.5502)</item>
+			<item>-0.0106029+-0.692207*exp(-x/0.0542991)+-0.171435*-0.171435*exp(-x*x/(-61.2277*-61.2277))</item>
+			<item>0.0214894+-0.266704*exp(-x/5.2112)+0.303578*0.303578*exp(-x*x/(-104.367*-104.367))</item>
+			<item>1*(pow((x-0),2))+0</item>
+			<item>0*(pow((x-0),0))+0.05</item>
+			<item>1*(pow((x-1.5),4))+-1.1</item>
+			<item>1*(pow((x-0),2))+0</item>
+			<item>0*(pow((x-0),0))+0</item>
+			<item>1*(pow((x-1.5),2))+0.6</item>
+		</formulas->
+	</pl>
+	<results- class_id="6" tracking_level="0" version="0">
+		<count>20</count>
+		<item_version>0</item_version>
+		<item>3001</item>
+		<item>3003</item>
+		<item>3005</item>
+		<item>3015</item>
+		<item>3017</item>
+		<item>3011</item>
+		<item>3013</item>
+		<item>3002</item>
+		<item>3004</item>
+		<item>3006</item>
+		<item>3016</item>
+		<item>3018</item>
+		<item>3012</item>
+		<item>3014</item>
+		<item>3019</item>
+		<item>3021</item>
+		<item>3023</item>
+		<item>3020</item>
+		<item>3022</item>
+		<item>3024</item>
+	</results->
+	<variables- class_id="7" tracking_level="0" version="0">
+		<count>1</count>
+		<item_version>0</item_version>
+		<item>2</item>
+	</variables->
+</cmsCondPayload>
+</boost_serialization>
+
+
