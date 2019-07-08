@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_UL2018_data_offline": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_UL2018_data_IOV3", 
+    "since": 325766, 
+    "userText": "PF Calibration data tag for UL 2018"
+}
