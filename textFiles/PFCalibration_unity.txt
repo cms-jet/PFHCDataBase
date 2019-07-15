@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_unity": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_unity", 
+    "since": null, 
+    "userText": "dummy condition for unity calibration"
+}
