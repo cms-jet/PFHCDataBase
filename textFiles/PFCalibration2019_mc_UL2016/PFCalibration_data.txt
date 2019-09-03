@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration2019_data_UL2016": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_UL2016_data", 
+    "since": null, 
+    "userText": "PF Calibration Data tag 2016 UL"
+}
