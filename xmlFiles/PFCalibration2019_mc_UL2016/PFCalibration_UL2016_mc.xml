@@ -106,11 +106,11 @@
 			<item>-0.00605737+-0.720466*(pow(x,14.5679))*exp(-x/0.175442)</item>
 			<item>0.0564225+0.00725947*x*exp(-x/23.1278)</item>
 			<item>1*(pow((x-0),2))+0</item>
-			<item>0.5*(pow((x-1.5),1))+0.01</item>
-			<item>1*(pow((x-1.5),4))+0.3</item>
-			<item>1*(pow((x-0),2))+0</item>
 			<item>1*(pow((x-1.5),4))+0</item>
 			<item>0*(pow((x-0),0))+0.08</item>
+			<item>1*(pow((x-0),2))+0</item>
+			<item>0.5*(pow((x-1.5),1))+-0.08</item>
+			<item>1*(pow((x-1.5),4))+0.3</item>
 		</formulas->
 	</pl>
 	<results- class_id="6" tracking_level="0" version="0">
