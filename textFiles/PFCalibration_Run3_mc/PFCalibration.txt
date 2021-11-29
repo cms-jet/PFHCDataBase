@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_Run3_mc_offline": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_Run3_mc", 
+    "since": null, 
+    "userText": "PF Calibration mc offline tag Run-3"
+}
