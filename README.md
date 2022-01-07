@@ -23,4 +23,4 @@ conddb dump -d PFCalibration.xml PayloadHash
 
 (for ex.) conddb dump -d PFCalibration.xml c85fdfbbca045de26ae6e641763c61c42ff6ab39
 ```
-now xml file is ready. One can commit this in GitHub
+now xml file is ready. Note that xml should be made only after uploading db file to database.
