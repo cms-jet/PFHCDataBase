@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_120X_mcRun3_2021_hlt": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_CMSSW_12_0_1_HLT_120X_mcRun3_2021", 
+    "since": null, 
+    "userText": "PF Calibration HLT tag Run-3"
+}
