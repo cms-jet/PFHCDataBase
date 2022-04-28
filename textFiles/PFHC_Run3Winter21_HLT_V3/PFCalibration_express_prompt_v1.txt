@@ -1,0 +1,12 @@
+{
+    "destinationDatabase": "oracle://cms_orcon_prod/CMS_CONDITIONS", 
+    "destinationTags": {
+        "PFCalibration_express_prompt_v1": {
+            "dependencies": {}, 
+            "synchronizeTo": "any"
+        }
+    }, 
+    "inputTag": "PFCalibration_express_prompt_v1", 
+    "since": null, 
+    "userText": "PF Calibration Run-2 mc offline for express and prompt"
+}
